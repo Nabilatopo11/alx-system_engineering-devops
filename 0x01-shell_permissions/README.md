@@ -7,3 +7,4 @@ script4:empty
 script5:execute
 multiple_permissions
 script7:everybody
+script8:James_Bond
