@@ -5,3 +5,4 @@ script3:groups
 script3:new_owner
 script4:empty
 script5:execute
+multiple_permissions
