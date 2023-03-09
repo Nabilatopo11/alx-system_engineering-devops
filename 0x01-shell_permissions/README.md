@@ -11,3 +11,5 @@ script8:James_Bond
 script9:John_Doe
 mirror_permissions
 directories_permissions
+directory_permissions
+change_group
