@@ -10,3 +10,4 @@ script7:everybody
 script8:James_Bond
 script9:John_Doe
 mirror_permissions
+directories_permissions
